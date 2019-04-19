@@ -12,7 +12,7 @@ app.use('/js/', express.static(path.join(__dirname, '/js/' )))
 // ROUTE
 // ------------------------
 app.get('/',(req,res)=>{
-    res.sendFile(path.join(__dirname,'../main.html'))
+    res.sendFile(path.join(__dirname,'/main.html'))
     console.log(path.join(__dirname, '/js/' ));
     
 });
