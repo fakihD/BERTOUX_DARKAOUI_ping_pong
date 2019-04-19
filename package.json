@@ -1,0 +1,24 @@
+{
+  "name": "BERTOUX_DARKAOUI_ping_pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakihD/BERTOUX_DARKAOUI_ping_pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakihD/BERTOUX_DARKAOUI_ping_pong/issues"
+  },
+  "homepage": "https://github.com/fakihD/BERTOUX_DARKAOUI_ping_pong#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
